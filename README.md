@@ -14,3 +14,16 @@ I love music, I play piano and guitar, and I've been told that I can sing. I am 
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
 ![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_II/main/actividades/img/MCD_logo.png)
+
+
+
+### Buen día Monse!
+
+Soy Eduardo Rios y fuimos compañeros para la presentación acerca de Git y GitHub! en la clase de Desarrollo de Proyectos.
+Yo tambíen soy coffeholic y que cool que toques piano y la guitarra.
+
+Luego echamos la platica sobre libros y temas de economia y ciencias sociales.
+
+Saludos Monse
+
+**Nota**: Me atrevi a modificar un comentario en tu repositorio para concluir con la actividad 1 de la clase :D
